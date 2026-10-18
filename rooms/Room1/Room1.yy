@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"CLT Runner",
-    "path":"CLT Runner.yyp",
+    "name":"Cenas",
+    "path":"folders/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
