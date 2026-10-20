@@ -1,0 +1,1 @@
+sprite_index = choose(spr_hambur, spr_choco, Sprite8, spr_cox);
